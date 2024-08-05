@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-    background-color: #f2c300;
+    background-color: #238E23;
     text-align: center;
     position: sticky;
     padding: 25px 0;
@@ -32,7 +32,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #000000;
+    color: #0000FF;
 }
 
 header {
