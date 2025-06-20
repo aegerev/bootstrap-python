@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', serif;
     margin: 0;
-    background: linear-gradient(to right, #CFB538,#0000FF);
+    background: linear-gradient(to right, #0000FF, #CFB538);
 }
 
 nav {
