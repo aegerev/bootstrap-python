@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', serif;
     margin: 0;
-    background: linear-gradient(to right, #238E23, #0000FF);
+    background: linear-gradient(to right, #CFB538,#0000FF);
 }
 
 nav {
@@ -64,6 +64,9 @@ h1 {
     color: #7093DB;
 }
 
+p{
+ color: #C0D9D9;   
+}
 
 img {
     display: block;
